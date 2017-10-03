@@ -1,13 +1,13 @@
 WAM inventory number#Label#Issue ID#Material#Denomination#Weight#Die axis#Obverse legend#Obverse type#Obverse symbols#Reverse legend#Reverse type#Reverse symbols#Mint#Find spot#Date#Condition
-WAM.2001.248#Denarius of Galba with a Laurel Crown#ric.1(2).gal.211#silver#denarius###IMP(erator) S<ER>(vivs) GALBA CAESAR A<VG>(vstvs)#Head of Galba, laureate, right##SA<LVS GEN> [H]VMANI#Female figure, draped, standing left, right foot on globe, holding patera over altar with right hand and upright rudder with left##Rome##c. July 68 CE to January 69 CE#Worn
-WAM.1997.25#Aureus of Nero#ric.1(2).ner.63#gold#auerus###IMP(erator) N<ER>O <CA>[E]SAR AUGUSTUS#Head of Nero, laureate, right, with beard##[I]UPATER CUSTOS#Jupiter, bare to waist, cloak round lower limbs, seated, left on throne, holding thunderbolt in right hand and long sceptre in left##Rome##66 CE to 67 CE#
-WAM 2001.238#Denarius of Augustus#ric.1(2).aug.257#silver#denarius#3.9#3##Head of Octavian, bare, right##<C>AESR DIVI F(ilius)#Naked male figure seated right on cloak on rock, holding lyre, petasus behind##Italy##2 BCE to 29 BCE#
+WAM.2001.248#denarius of galba with a laurel crown#ric.1(2).gal.211#silver#denarius###IMP(erator) S<ER>(vivs) GALBA CAESAR A<VG>(vstvs)#Head of Galba, laureate, right##SA<LVS GEN> [H]VMANI#female figure, draped, standing left, right foot on globe, holding patera over altar with right hand and upright rudder with left##rome##68-7+0-2:69+0-1#worn
+WAM.1997.25#aureus of nero#ric.1(2).ner.63#gold#auerus###IMP(erator) N<ER>O <CA>[E]SAR AUGUSTUS#Head of Nero, laureate, right, with beard##[I]UPATER CUSTOS#Jupiter, bare to waist, cloak round lower limbs, seated, left on throne, holding thunderbolt in right hand and long sceptre in left##rome##66:67#
+WAM 2001.238#denarius of augustus#ric.1(2).aug.257#silver#denarius#3.9#3##Head of Octavian, bare, right##<C>AESR DIVI F(ilius)#naked male figure seated right on cloak on rock, holding lyre, petasus behind##italy##-29:-2#
 WAM 2001.239################
-WAM 2001.255#Denarius of Augustus#ric.1(2).aug.250a#silver#denarius####Bare head facing right##<C>AESAR DIVI F(ilius)#Female figure, bare to waist, back turned, legs draped, holding helmet in right hand, holding staff in left, leaning on column with round shield leaning on it #####
+WAM 2001.255#denarius of Augustus#ric.1(2).aug.250a#silver#denarius####Bare head facing right##<C>AESAR DIVI F(ilius)#female figure, bare to waist, back turned, legs draped, holding helmet in right hand, holding staff in left, leaning on column with round shield leaning on it#####
 WAM 2001.258################
-WAM 2001.281#Denarius##silver#denarius############
-WAM 2001.282#Denarius##silver#denarius############
-WAM 2001.283#Denarius##silver#denarius############
-WAM 2001.284#Denarius##silver#denarius############
-WAM 2001.285###silver#denarius############
+WAM 2001.281#denarius#rrc-443.1#silver#denarius####pontifical emblems - culullus, aspergillum, axe and apex. border of dots.##CAESAR#elephant right, trampling dragon. border of dots.##uncertain##-49:-48#very good
+WAM 2001.282#denarius##silver#denarius############
+WAM 2001.283#denarius#rrc-494.39a#silver#denarius####laureate head of julius caesar right. border of dots.##L(ucius)·MVSSIDIVS·LON<G>[VS]#cornucopia on globe; on left, rudder; on right, caduceus and apex; around, inscription. border of dots.##rome##-42#off flan
+WAM 2001.284#denarius#rrc-523.1a#silver#denarius###C(aius)·CAE<S>[AR·III·VIR]·R·P·C#head of octavian right, bearded; around, inscription. border of dots.##Q(uintus)·SALVIVS·IMP(erator)·CO(n)S(ul)·<D>[ESIG(natio)]#thunderbolt; around, inscription. border of dots.##uncertain##-40#good
+WAM 2001.285#denarius#ric.1(2).aug.266#silver#denarius####head of octavian, bare, right##IMP(erator) CAESAR#legend in pediment of colonnaded temple; victory on globe at apex, warriors at angles##italy##-29:-27#very good
 WAM 2001.288##ric.1(2).aug.207#silver#denarius############
